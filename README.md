@@ -1,7 +1,7 @@
 <div align="center">
 
-# **Sam Celarek: Aspiring Data Scientist**
-## **BrainStation Data Science Bootcamp Graduate (August 2023)**
+# **Sam Celarek: Ready to Work Data Scientist**
+## **BrainStation Data Science Diploma (August 2023)**
 
 </div>
 
