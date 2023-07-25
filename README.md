@@ -15,7 +15,7 @@ Hello! I'm Sam Celarek, a dedicated healthcare professional with a rich history 
 
 
 ## 🔗 Important Links & Resources
-Some of these resources are **Private Projects** due to copyright and therefore by **Request Only**. 
+Some of these resources are *Private Projects* due to copyright and therefore by *Request Only*. 
 
 ### **Projects & Skills Demonstrations**:
 #### Data Wrangling. Cleaning, and EDA
@@ -39,14 +39,15 @@ Some of these resources are **Private Projects** due to copyright and therefore 
 -  _Private_ [Hotel Reviews Hyperparameter Tuning of Models](https://github.com/scelarek/Universal_Code_Bank/blob/ba2c5ddc45c883327a8ec4a5fd281be15735d904/Brain%20Station/Project4,%20NLP%20With%20Hotel%20pt2/NLP%20Hotel%20pt2.ipynb)
 
 #### SQL, Tableau, AWS, and PySpark
--  _Private_ Kickstarter SQL
--  _Private_ BIXI SQL
--  _Private_ BIXI Tableau
--  _Private_ Google Engrams with AWS and Pyspark Notebook
+-  _Private_ [Kickstarter SQL Queries](https://github.com/scelarek/Universal_Code_Bank/blob/f885714fbd4603df0d162cc19c737b02a5cc58e2/Final%20Projects/Kickstarter/SQL/Kickstarter%20sql%20scripts.sql) and [Tableau Dashboard](https://github.com/scelarek/Universal_Code_Bank/blob/f885714fbd4603df0d162cc19c737b02a5cc58e2/Final%20Projects/Kickstarter/SQL/Dashboard%201.png)
+-  _Private_ [BIXI SQL Queries](https://github.com/scelarek/Universal_Code_Bank/blob/main/Brain%20Station/Project0a,%20BIXI%20SQL/Bixi%20Project%20Sam_Celarek.sql)
+-  _Private_ [BIXI Tableau Dashboard](https://github.com/scelarek/Universal_Code_Bank/blob/94e8e404cd99acc7345d52829b70551024453c0e/Brain%20Station/Project0b,%20BIXI%20Tableau%20Dashboard/Sam_Celarek_BIXI_2.twb) and [BIXI Business Report](https://github.com/scelarek/Universal_Code_Bank/blob/94e8e404cd99acc7345d52829b70551024453c0e/Brain%20Station/Project0b,%20BIXI%20Tableau%20Dashboard/BIXI%202%20Sam_Celarek%20(4).pdf)
+-  _Private_ [Google Engrams with AWS](https://github.com/scelarek/Universal_Code_Bank/blob/b2bde9a2218f95a6854e377f2b3e04626efbf89e/Brain%20Station/Project5,%20Google%20Engrams%20pt1/Google%20Engrams%20Report.ipynb) and [Pyspark Notebook](https://github.com/scelarek/Universal_Code_Bank/blob/84060cdfc7cba579aeddafbce5fcc91dc2662330/Brain%20Station/Project5,%20Google%20Engrams%20pt1/Google%20Engram%20PySpark%20Notebook.ipynb)
 
 ### **References & Guides**:
-- [Useful Templates and ML Reference Guides](https://github.com/scelarek/Reference_Notebooks)
+I'm a bit of a compulsive guide and template maker! Mostly it is because distilling the general processes or concepts of data science into a clean, uniformally formatted notebook is a very satisfying way of grasping the big picture.  Beyond being a fun learning method though, these guides aim to serve a threefold purpose: streamline the data science workflow, quickly compare and contrast central ML concepts, and help my budding data scientist friends in the BrainStation Bootcamp with assignments :).
 
+- [Useful Templates and ML Reference Guides](https://github.com/scelarek/Reference_Notebooks)
 
 ---
 
