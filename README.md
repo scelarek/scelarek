@@ -21,13 +21,13 @@ Hello! I'm Sam Celarek, a dedicated healthcare professional with a rich history 
 
 ### **Projects & Skills Demonstrations**:
 - [Google Industry Day Project Chatbot](https://github.com/scelarek/Google-Industry-Day)
-- [Covid Prediction Preprocessing](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/1.%20Covid%20Preprocessing.ipynb)
+- [COVID Prediction Wrangling, Cleaning, and Preprocessing](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/1.%20Covid%20Preprocessing.ipynb)
 - [COVID EDA Notebook](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/2.%20Sample%20EDA%20(Basic).ipynb) or [Presentation](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Presentations/COVID%20Preprocessing%20and%20EDA.pdf)
 - [COVID Modeling (tbd)](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/3.%20Covid%20SARIMA%20Modeling.ipynb)
 - [COVID Advanced Modeling (tbd)](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/4.%20Covid%20Prophet%20and%20RNNs.ipynb)
 - [Twitter Data Wrangling](https://github.com/scelarek/Data-Analysis-Projects/blob/a1f50a33c893b5dbeec4ae5739eff319f8f61a1c/Twitter%20Humor%20vs%20Cuteness/Twitter_Wrangle.ipynb)
-- Global Temps EDA (Link TBD)
-- GDP EDA (Link TBD)
+- [Global vs City Temperatures EDA](https://github.com/scelarek/Data-Analysis-Projects/blob/62ec589bf21700e670850a36ec8b401a67bc80bf/City%20vs%20Global%20Temp/Analying%20Yearly%20Average%20Temperature%20-%20Sam%20Celarek.docx.pdf) 
+- [Wealth and Happiness EDA](https://github.com/scelarek/Data-Analysis-Projects/blob/62ec589bf21700e670850a36ec8b401a67bc80bf/GDP%20vs%20GINI/eternal_growth_immortal_inequality.ipynb) 
 
 ---
 
