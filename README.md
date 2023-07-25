@@ -13,13 +13,6 @@ Hello! I'm Sam Celarek, a dedicated healthcare professional with a rich history 
 
 ---
 
-## 🚀 About Me
-
-I'm a former Critical Care Nurse with roles at St. Vincent Hospital and St. Louis University Hospital, where I closely collaborated with interdisciplinary teams managing patients with severe neurological injuries. My leadership stints include being the Chair of the Scheduling Committee at St. Vincent and the Chair of the Quality Improvement and Safety Council at St. Louis University. I'm particularly proud of my contributions towards elevating medication scanning, handwashing, and central venous catheter maintenance standards.
-
-Beyond the professional realm, I lead the Portland Effective Altruism and Rationality (PEAR) community. As part of this initiative, I don various hats - from coordinating with other organizers and updating the website to conducting workshops and driving outreach efforts. My association with PEAR underscores my commitment to making a difference in the world, be it through career choices or impactful charity donations.
-
----
 
 ## 🔗 Important Links & Resources
 
