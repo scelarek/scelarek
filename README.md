@@ -55,6 +55,6 @@ I'm a bit of a compulsive guide and template maker! Mostly it is because distill
 
 **Connect with me on** [LinkedIn](https://www.linkedin.com/in/sam-celarek/)  
 
-**Take a look at my** [Resume and Work History](https://drive.google.com/file/d/19sHJN0MPF6vSi7v7YOuBTlF_dHZVhztV/view?usp=sharing)
+**Take a look at my** [Resume and Work History](https://drive.google.com/file/d/1th1r-a0QKej59eV-_CqyASCjSE4xy2kU/view?usp=sharing)
 
 </div>
