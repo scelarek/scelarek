@@ -13,6 +13,13 @@ Hello! I'm Sam Celarek! For several years, I was a nurse who led quality improve
 
 ---
 
+🌱 Data Science Projects
+I'm always working on exciting data science projects that showcase my abilities and demonstrate the power of data-driven solutions. Here are some of the projects I've been working on:
+
+- **Covid Time-Series Prediction**: Use Epidemiological Models and COVID data to predict the number of New Cases of COVID to help hospitals, governments, and people brace for the oncoming storm.
+
+---
+
 ## 🚀 My Toolbox
 
 - **Programming Languages**: Python, R, SQL, PySpark
@@ -22,8 +29,12 @@ Hello! I'm Sam Celarek! For several years, I was a nurse who led quality improve
 - **Cloud Computing**: AWS, Spark, Hadoop
 - **Version Control**: GitHub
 
+---
+
 ## 🔗 Important Links & Resources
 Some of these resources are *Private Projects* due to copyright and therefore by *Request Only*. 
+
+---
 
 ### **Projects**:
 #### Data Wrangling. Cleaning, and EDA
