@@ -45,7 +45,12 @@ Some of these resources are *Private Projects* due to copyright and therefore by
 -  _Private_ [Google Engrams with AWS](https://github.com/scelarek/Universal_Code_Bank/blob/b2bde9a2218f95a6854e377f2b3e04626efbf89e/Brain%20Station/Project5,%20Google%20Engrams%20pt1/Google%20Engrams%20Report.ipynb) and [Pyspark Notebook](https://github.com/scelarek/Universal_Code_Bank/blob/84060cdfc7cba579aeddafbce5fcc91dc2662330/Brain%20Station/Project5,%20Google%20Engrams%20pt1/Google%20Engram%20PySpark%20Notebook.ipynb)
 
 ### **References & Guides**:
-I'm a bit of a compulsive guide and template maker! Mostly it is because distilling the general processes or concepts of data science into a clean, uniformally formatted notebook is a very satisfying way of grasping the big picture.  Beyond being a fun learning method though, these guides aim to serve a threefold purpose: streamline the data science workflow, quickly compare and contrast central ML concepts, and help my budding data scientist friends in the BrainStation Bootcamp with assignments :).
+I'm a bit of a compulsive guide and template maker! Mostly it is because distilling the general processes or concepts of data science into a clean, uniformally formatted notebook is a very satisfying way of grasping the big picture.  Beyond being a fun learning method though, these guides aim to serve a threefold purpose: 
+1. Streamline the data science workflow
+2. Quickly compare and contrast central ML concepts
+3. and Help my budding data scientist friends in the BrainStation Bootcamp with assignments :)
+
+Happy Data Sciencing!
 
 - [Useful Templates and ML Reference Guides](https://github.com/scelarek/Reference_Notebooks)
 
