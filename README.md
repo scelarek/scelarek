@@ -48,7 +48,7 @@ Some of these resources are *Private Projects* due to copyright and therefore by
 I'm a bit of a compulsive guide and template maker! Mostly it is because distilling the general concepts of data science into a clean, uniformally formatted notebook is a very satisfying way of grasping the big picture.  Beyond being a fun learning method though, these guides aim to serve a threefold purpose: 
 1. Streamline the data science workflow
 2. Quickly compare and contrast central ML concepts
-3. and Help my budding data scientist friends in the BrainStation Bootcamp with assignments :)
+3. and Help my budding data scientist friends in the BrainStation Bootcamp :)
 
 Happy Data Sciencing!
 
