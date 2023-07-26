@@ -17,7 +17,10 @@ Hello! I'm Sam Celarek! For several years, I was a nurse who led quality improve
 I'm always working on exciting data science projects that showcase my abilities and demonstrate the power of data-driven solutions. Here are some of the projects I've been working on:
 
 - **Covid Time-Series Prediction**: Use Epidemiological Models and COVID data to predict the number of New Cases of COVID to help hospitals, governments, and people brace for the oncoming storm.
-
+  - [COVID Prediction Wrangle, and Clean](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/1.%20Covid%20Preprocessing.ipynb)
+  - [COVID EDA Notebook](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/2.%20Sample%20EDA%20(Basic).ipynb) or [COVID EDA Presentation]
+  - **In Progress** [COVID Modeling](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/3.%20Covid%20SARIMA%20Modeling.ipynb)
+  - **In Progress** [COVID Advanced Modeling](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/4.%20Covid%20Prophet%20and%20RNNs.ipynb)
 ---
 
 ## 🚀 My Toolbox
@@ -50,8 +53,8 @@ Some of these resources are *Private Projects* due to copyright and therefore by
 #### Modeling, Natural Language Processing, and Neural Nets
 
 - [Google Industry Day Project Chatbot](https://github.com/scelarek/Google-Industry-Day)
-- **Incomplete** [COVID Modeling](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/3.%20Covid%20SARIMA%20Modeling.ipynb)
-- **Incomplete** [COVID Advanced Modeling](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/4.%20Covid%20Prophet%20and%20RNNs.ipynb)
+- **In Progress** [COVID Modeling](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/3.%20Covid%20SARIMA%20Modeling.ipynb)
+- **In Progress** [COVID Advanced Modeling](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/4.%20Covid%20Prophet%20and%20RNNs.ipynb)
 -  _Private_ [Kickstarter EDA and Modeling](https://github.com/scelarek/Universal_Code_Bank/blob/74bb8312a2477d66d72fc31ed31fda4c12c73458/Final%20Projects/Kickstarter/EDA%20Kickstarter.ipynb), and [Final Report](https://github.com/scelarek/Universal_Code_Bank/blob/74bb8312a2477d66d72fc31ed31fda4c12c73458/Final%20Projects/Kickstarter/Kickstarter%20Final%20Project.ipynb)
 -  _Private_ [Chicago Mosquito Hypothesis Testing and Modeling](https://github.com/scelarek/Universal_Code_Bank/blob/b3f1ec2bd331d6fa944b089931168a2b35f5c56a/Brain%20Station/Project2,%20Mosquitos%20pt2/Samuel_Celarek_Stats_Part2.ipynb)
 -  _Private_ [Hotel Reviews EDA, Modeling, and Natural Language Processing](https://github.com/scelarek/Universal_Code_Bank/blob/e8cfc54751e4b48a65cb001e56441b5fd19a472b/Brain%20Station/Project3,%20NLP%20With%20Hotel%20pt1/Hotel_Project_EDA_Wrangling,%20pt2.ipynb)
