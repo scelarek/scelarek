@@ -13,16 +13,6 @@ Hello! I'm Sam Celarek! For several years, I was a nurse who led quality improve
 
 ---
 
-🌱 Data Science Projects
-I'm always working on exciting data science projects that showcase my abilities and demonstrate the power of data-driven solutions. Here are some of the projects I've been working on:
-
-- **Covid Time-Series Prediction**: Use Epidemiological Models and COVID data to predict the number of New Cases of COVID to help hospitals, governments, and people brace for the oncoming storm.
-  - [COVID Prediction Wrangle, and Clean](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/1.%20Covid%20Preprocessing.ipynb)
-  - [COVID EDA Notebook](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/2.%20Sample%20EDA%20(Basic).ipynb) or [COVID EDA Presentation]
-  - **In Progress** [COVID Modeling](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/3.%20Covid%20SARIMA%20Modeling.ipynb)
-  - **In Progress** [COVID Advanced Modeling](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/4.%20Covid%20Prophet%20and%20RNNs.ipynb)
----
-
 ## 🚀 My Toolbox
 
 - **Programming Languages**: Python, R, SQL, PySpark
@@ -34,13 +24,21 @@ I'm always working on exciting data science projects that showcase my abilities 
 
 ---
 
-## 🔗 Important Links & Resources
-Some of these resources are *Private Projects* due to copyright and therefore by *Request Only*. 
+## 🌱 Data Science Projects
+I have a pretty deep repoirtre of projects that is only getting deeper by the day! Here is a teaser:
+
+- **Covid Time-Series Prediction**: Use Epidemiological Models and COVID data to predict the number of New Cases of COVID to help hospitals, governments, and people brace for the oncoming storm.
+  - [COVID Prediction Wrangle, and Clean](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/1.%20Covid%20Preprocessing.ipynb)
+  - [COVID EDA Notebook](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/2.%20Sample%20EDA%20(Basic).ipynb) or [COVID EDA Presentation]
+  - **In Progress** [COVID Modeling](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/3.%20Covid%20SARIMA%20Modeling.ipynb)
+  - **In Progress** [COVID Advanced Modeling](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/4.%20Covid%20Prophet%20and%20RNNs.ipynb)
 
 ---
 
-### **Projects**:
-#### Data Wrangling. Cleaning, and EDA
+## 🔗 Important Links & Resources
+Some of these resources are *Private Projects* due to copyright and therefore by *Request Only*. 
+
+### Data Wrangling. Cleaning, and EDA
 - [COVID Prediction Wrangle, and Clean](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/1.%20Covid%20Preprocessing.ipynb)
 - [COVID EDA Notebook](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/2.%20Sample%20EDA%20(Basic).ipynb) or [COVID EDA Presentation](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Presentations/COVID%20Preprocessing%20and%20EDA.pdf)
 - [Twitter Data Wrangling](https://github.com/scelarek/Data-Analysis-Projects/blob/a1f50a33c893b5dbeec4ae5739eff319f8f61a1c/Twitter%20Humor%20vs%20Cuteness/Twitter_Wrangle.ipynb)
@@ -50,7 +48,7 @@ Some of these resources are *Private Projects* due to copyright and therefore by
 -  _Private_ [Chicago Mosquito Wrangle, Clean, and EDA](https://github.com/scelarek/Universal_Code_Bank/blob/e7f4b0119f42746d40d18a42b06ffc8a3c2d2975/Brain%20Station/Project1,%20Mosquitos%20pt1/health.ipynb)
 -  _Private_ [Hotel Reviews Wrangling, Cleaning](https://github.com/scelarek/Universal_Code_Bank/blob/59c0cb45dd66a74ed55f9239d9b894b53f66061b/Brain%20Station/Project3,%20NLP%20With%20Hotel%20pt1/Hotel_Project_Cleaning,%20pt1.ipynb)
 
-#### Modeling, Natural Language Processing, and Neural Nets
+### Modeling, Natural Language Processing, and Neural Nets
 
 - [Google Industry Day Project Chatbot](https://github.com/scelarek/Google-Industry-Day)
 - **In Progress** [COVID Modeling](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/3.%20Covid%20SARIMA%20Modeling.ipynb)
@@ -60,13 +58,15 @@ Some of these resources are *Private Projects* due to copyright and therefore by
 -  _Private_ [Hotel Reviews EDA, Modeling, and Natural Language Processing](https://github.com/scelarek/Universal_Code_Bank/blob/e8cfc54751e4b48a65cb001e56441b5fd19a472b/Brain%20Station/Project3,%20NLP%20With%20Hotel%20pt1/Hotel_Project_EDA_Wrangling,%20pt2.ipynb)
 -  _Private_ [Hotel Reviews Hyperparameter Tuning of Models](https://github.com/scelarek/Universal_Code_Bank/blob/ba2c5ddc45c883327a8ec4a5fd281be15735d904/Brain%20Station/Project4,%20NLP%20With%20Hotel%20pt2/NLP%20Hotel%20pt2.ipynb)
 
-#### SQL, Tableau, AWS, and PySpark
+### SQL, Tableau, AWS, and PySpark
 -  _Private_ [Kickstarter SQL Queries](https://github.com/scelarek/Universal_Code_Bank/blob/f885714fbd4603df0d162cc19c737b02a5cc58e2/Final%20Projects/Kickstarter/SQL/Kickstarter%20sql%20scripts.sql) and [Tableau Dashboard](https://github.com/scelarek/Universal_Code_Bank/blob/f885714fbd4603df0d162cc19c737b02a5cc58e2/Final%20Projects/Kickstarter/SQL/Dashboard%201.png)
 -  _Private_ [BIXI SQL Queries](https://github.com/scelarek/Universal_Code_Bank/blob/main/Brain%20Station/Project0a,%20BIXI%20SQL/Bixi%20Project%20Sam_Celarek.sql)
 -  _Private_ [BIXI Tableau Dashboard](https://github.com/scelarek/Universal_Code_Bank/blob/94e8e404cd99acc7345d52829b70551024453c0e/Brain%20Station/Project0b,%20BIXI%20Tableau%20Dashboard/Sam_Celarek_BIXI_2.twb) and [BIXI Business Report](https://github.com/scelarek/Universal_Code_Bank/blob/94e8e404cd99acc7345d52829b70551024453c0e/Brain%20Station/Project0b,%20BIXI%20Tableau%20Dashboard/BIXI%202%20Sam_Celarek%20(4).pdf)
 -  _Private_ [Google Engrams with AWS](https://github.com/scelarek/Universal_Code_Bank/blob/b2bde9a2218f95a6854e377f2b3e04626efbf89e/Brain%20Station/Project5,%20Google%20Engrams%20pt1/Google%20Engrams%20Report.ipynb) and [Pyspark Notebook](https://github.com/scelarek/Universal_Code_Bank/blob/84060cdfc7cba579aeddafbce5fcc91dc2662330/Brain%20Station/Project5,%20Google%20Engrams%20pt1/Google%20Engram%20PySpark%20Notebook.ipynb)
 
-### **References & Guides**:
+---
+
+## **References & Guides**:
 I'm a bit of a compulsive guide and template maker! Mostly it is because distilling the general concepts of data science into a clean, uniformally formatted notebook is a very satisfying way of grasping the big picture.  Beyond being a fun learning method though, these guides aim to serve a threefold purpose: 
 1. Streamline the data science workflow
 2. Quickly compare and contrast central ML concepts
