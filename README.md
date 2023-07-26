@@ -9,15 +9,23 @@
 
 ## 🌟 Introduction
 
-Hello! I'm Sam Celarek, a dedicated healthcare professional with a rich history as a nurse who led quality improvement teams to optimize performance indicators within prominent hospitals. Over the years, I've grown deeply passionate about the underlying data science that informed our critical interventions. This passion eventually steered me towards a transition into the world of data science.  Outside of work, I actively lead the Portland Effective Altruism and Rationality (PEAR) community, which seeks to promote evidence-based charitable endeavors to maximize peoples' positive impact in the world.  Blending my leadership experience with data science prowess, I am on a mission to turn data into actionable insights. If you're on the lookout for a Data Sceintist driven by curiosity, impact, and excellence, let's connect!
+Hello! I'm Sam Celarek! For several years, I was a nurse who led quality improvement teams to improve my hospitals KPIs. I eventually became deeply passionate about the underlying data science that informed our interventions. This passion eventually steered me towards a transition into the world of data science, earning a Data Science Diploma from BrainStation in Summer 2023.  Outside of work, I actively lead the Portland's Effective Altruism and Rationality community (PEAR), which seeks to promote evidence-based charitable endeavors to maximize peoples' positive impact in the world.  Blending my leadership experience with data science prowess, I am on a mission to turn data into actionable insights. If you're on the lookout for a Data Scientist driven by curiosity, impact, and excellence, let's connect!
 
 ---
 
+## 🚀 My Toolbox
+
+- **Programming Languages**: Python, R, SQL, PySpark
+- **Data Analysis**: Pandas, NumPy, SciPy
+- **Machine Learning**: Scikit-learn, TensorFlow, Keras, Pytorch
+- **Data Visualization**: Matplotlib, Seaborn, Tableau
+- **Cloud Computing**: AWS, Spark, Hadoop
+- **Version Control**: GitHub
 
 ## 🔗 Important Links & Resources
 Some of these resources are *Private Projects* due to copyright and therefore by *Request Only*. 
 
-### **Projects & Skills Demonstrations**:
+### **Projects**:
 #### Data Wrangling. Cleaning, and EDA
 - [COVID Prediction Wrangle, and Clean](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/1.%20Covid%20Preprocessing.ipynb)
 - [COVID EDA Notebook](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/2.%20Sample%20EDA%20(Basic).ipynb) or [COVID EDA Presentation](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Presentations/COVID%20Preprocessing%20and%20EDA.pdf)
