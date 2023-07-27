@@ -17,25 +17,44 @@
 
 <div align="center">
 
-# **Sam Celarek: Ready to Work Data Scientist**
+# **Sam Celarek The Data Dude**
 ## **BrainStation Data Science Diploma (August 2023)**
+
+</div>
 
 ---
 
 ## 🌟 Introduction
 
-Hello! I'm Sam Celarek and welcome to my Github! I'm a Data Scientist looking for his first crack at a business problem worthy of the name. The full package is something like insatiable curiosity, a desire to quantify everything, and high-standards for the final delivery. Let me know if you are interested in any of my projects or would like to collaborate.  
+Hello! I'm Sam Celarek and welcome to my Github! I'm a Data Scientist looking for his first crack at a business problem worthy of the name after graduating from the BrainStation Data Science Bootcamp in Summer 2023. The full package is something like insatiable curiosity, a desire to quantify everything, and high-standards for the final delivery. Let me know if you are interested in any of my projects or would like to collaborate.  
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg" title="Apache Spark" alt="Apache Spark" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+</div>
 
-- **Programming Languages**: Python, R, SQL, PySpark
+- **Programming Languages**: Python, R, SQL, Bash
 - **Data Analysis**: Pandas, NumPy, SciPy
 - **Machine Learning**: Scikit-learn, TensorFlow, Keras, Pytorch
 - **Data Visualization**: Matplotlib, Seaborn, Tableau
 - **Cloud Computing**: AWS, Spark, Hadoop
-- **Version Control**: GitHub
+- **Version Control**: GitHub, Git
 
 ---
 
@@ -43,6 +62,8 @@ Hello! I'm Sam Celarek and welcome to my Github! I'm a Data Scientist looking fo
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=scelarek&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scelarek)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ---
 
@@ -58,7 +79,7 @@ I have a pretty deep repoirtre of projects that is only getting deeper by the da
 ---
 
 ## 🔗 Important Links & Resources
-Some of these resources are *Private Projects* due to copyright and therefore by *Request Only*. 
+Some of these resources are *Private Projects* due to copyright and therefore by *Request Only*. I'd be happy to share them with you otherwise!
 
 ### Data Wrangling. Cleaning, and EDA
 - [COVID Prediction Wrangle, and Clean](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/1.%20Covid%20Preprocessing.ipynb)
