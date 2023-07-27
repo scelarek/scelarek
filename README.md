@@ -26,13 +26,14 @@
 
 ## 🌟 Introduction
 
-Hello! I'm Sam Celarek and welcome to my Github! After graduating from the BrainStation Data Science Bootcamp in August 2023, I'm a for my first crack at a business problem worthy of the name. The full package is something like insatiable curiosity, a desire to quantify everything, and a wide array of data science tools to tackle almost any problem. Let me know if you are interested in any of my projects or would like to collaborate.  
+Hello! I'm Sam Celarek and welcome to my Github! After graduating from the BrainStation Data Science Bootcamp in August 2023, I'm ready for to take a crack at a business problem worthy of the name. The full package is something like insatiable curiosity, a desire to quantify everything, and a wide array of data science tools to tackle almost any problem. Let me know if you are interested in any of my projects or would like to collaborate.  
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -49,21 +50,14 @@ Hello! I'm Sam Celarek and welcome to my Github! After graduating from the Brain
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
 </div>
 
-- **Programming Languages**: Python, R, SQL, Bash
+- **Programming Languages**: Python, R, MySQL, Bash
 - **Data Analysis**: Pandas, NumPy, SciPy
 - **Machine Learning**: Scikit-learn, TensorFlow, Keras, Pytorch
 - **Data Visualization**: Matplotlib, Seaborn, Tableau
 - **Cloud Computing**: AWS, Spark, Hadoop
 - **Version Control**: GitHub, Git
 
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=scelarek&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scelarek)](https://github.com/anuraghazra/github-readme-stats)
-
----
+--- 
 
 ## 🌱 Data Science Projects
 I have a pretty deep repoirtre of projects that is only getting deeper by the day! Here is a teaser:
@@ -116,6 +110,13 @@ I'm a bit of a compulsive guide and template maker! Mostly it is because distill
 Happy Data Sciencing!
 
 - [Useful Templates and ML Reference Guides](https://github.com/scelarek/Reference_Notebooks)
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=scelarek&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scelarek)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
