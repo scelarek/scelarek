@@ -61,7 +61,7 @@ Hello! I'm Sam Celarek and welcome to my Github! After graduating from the Brain
 --- 
 
 ## 🌱 Data Science Projects
-I have a pretty deep repoirtre of projects that is only getting deeper by the day! Here is a teaser:
+I have a pretty deep repertoire of projects that is only getting deeper by the day. Take a dip!
 
 - **Covid Time-Series Prediction**: Use Epidemiological Models and COVID data to predict the number of New Cases of COVID to help hospitals, governments, and people brace for the oncoming storm.
   - [COVID Prediction Wrangle, and Clean](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/1.%20Covid%20Preprocessing.ipynb)
