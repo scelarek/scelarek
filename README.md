@@ -17,7 +17,7 @@
 
 <div align="center">
 
-# **Sam Celarek The Data Dude**
+# **Sam Celarek the Data Dude**
 ## **BrainStation Data Science Diploma (August 2023)**
 
 </div>
@@ -26,7 +26,7 @@
 
 ## 🌟 Introduction
 
-Hello! I'm Sam Celarek and welcome to my Github! I'm a Data Scientist looking for his first crack at a business problem worthy of the name after graduating from the BrainStation Data Science Bootcamp in Summer 2023. The full package is something like insatiable curiosity, a desire to quantify everything, and high-standards for the final delivery. Let me know if you are interested in any of my projects or would like to collaborate.  
+Hello! I'm Sam Celarek and welcome to my Github! After graduating from the BrainStation Data Science Bootcamp in August 2023, I'm a for my first crack at a business problem worthy of the name. The full package is something like insatiable curiosity, a desire to quantify everything, and a wide array of data science tools to tackle almost any problem. Let me know if you are interested in any of my projects or would like to collaborate.  
 
 ---
 
@@ -62,8 +62,6 @@ Hello! I'm Sam Celarek and welcome to my Github! I'm a Data Scientist looking fo
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=scelarek&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scelarek)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ---
 
