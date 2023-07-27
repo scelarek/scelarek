@@ -65,7 +65,7 @@ I have a pretty deep repertoire of projects that is only getting deeper by the d
 
 - **Covid Time-Series Prediction**: Use Epidemiological Models and COVID data to predict the number of New Cases of COVID to help hospitals, governments, and people brace for the oncoming storm.
   - [COVID Prediction Wrangle, and Clean](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/1.%20Covid%20Preprocessing.ipynb)
-  - [COVID EDA Notebook](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/2.%20Sample%20EDA%20(Basic).ipynb) or [COVID EDA Presentation]
+  - [COVID EDA Notebook](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/2.%20Sample%20EDA%20(Basic).ipynb) or [COVID EDA Presentation](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Presentations/COVID%20Preprocessing%20and%20EDA.pdf)
   - **In Progress** [COVID Modeling](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/3.%20Covid%20SARIMA%20Modeling.ipynb)
   - **In Progress** [COVID Advanced Modeling](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/4.%20Covid%20Prophet%20and%20RNNs.ipynb)
 
