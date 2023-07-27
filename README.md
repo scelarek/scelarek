@@ -20,21 +20,15 @@
 # **Sam Celarek: Ready to Work Data Scientist**
 ## **BrainStation Data Science Diploma (August 2023)**
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=h4pz&show_icons=true&title_color=ffffff&text_color=79acf3&icon_color=8a8a8a&bg_color=0d1117">
-  </p>
-
-</div>
-
 ---
 
 ## 🌟 Introduction
 
-Hello! I'm Sam Celarek! For several years, I was a nurse who led quality improvement teams to improve my hospitals KPIs. I eventually became deeply passionate about the underlying data science that informed our interventions. This passion eventually steered me towards a transition into the world of data science, earning a Data Science Diploma from BrainStation in Summer 2023.  Outside of work, I actively lead the Portland's Effective Altruism and Rationality community (PEAR), which seeks to promote evidence-based charitable endeavors to maximize peoples' positive impact in the world.  Blending my leadership experience with data science prowess, I am on a mission to turn data into actionable insights. If you're on the lookout for a Data Scientist driven by curiosity, impact, and excellence, let's connect!
+Hello! I'm Sam Celarek and welcome to my Github! I'm a Data Scientist looking for his first crack at a business problem worthy of the name. The full package is something like insatiable curiosity, a desire to quantify everything, and high-standards for the final delivery. Let me know if you are interested in any of my projects or would like to collaborate.  
 
 ---
 
-## 🚀 My Toolbox
+### :hammer_and_wrench: Languages and Tools:
 
 - **Programming Languages**: Python, R, SQL, PySpark
 - **Data Analysis**: Pandas, NumPy, SciPy
@@ -42,6 +36,13 @@ Hello! I'm Sam Celarek! For several years, I was a nurse who led quality improve
 - **Data Visualization**: Matplotlib, Seaborn, Tableau
 - **Cloud Computing**: AWS, Spark, Hadoop
 - **Version Control**: GitHub
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=scelarek&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scelarek)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
