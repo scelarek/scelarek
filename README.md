@@ -51,12 +51,12 @@ Hello! I'm Sam Celarek and welcome to my Github! After graduating from the Brain
 
 </div>
 
-- **Programming Languages**: Python, R, MySQL, Bash
-- **Data Analysis**: Pandas, NumPy, SciPy
-- **Machine Learning**: Scikit-learn, TensorFlow, Keras, Pytorch
-- **Data Visualization**: Matplotlib, Seaborn, Tableau
-- **Cloud Computing**: AWS, Spark, Hadoop
-- **Version Control**: GitHub, Git
+- **Programming Languages**: `Python`, `R`, `MySQL`, `Bash`
+- **Data Analysis**: `Pandas`, `NumPy`, `SciPy`
+- **Machine Learning**: `Scikit-learn`, `TensorFlow`, `Keras`, `Pytorch`
+- **Data Visualization**: `Matplotlib`, `Seaborn`, `Tableau`, `'Plotly`
+- **Cloud Computing**: `AWS`, `Spark`, `Hadoop`
+- **Version Control**: `GitHub`, `Git`
 
 --- 
 
