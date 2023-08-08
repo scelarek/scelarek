@@ -8,7 +8,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=scelarek&style=flat-square&color=blue" alt=""/>
   <h1>
-    Yo!
+    Hello!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
@@ -54,7 +54,7 @@ Hello! I'm Sam Celarek and welcome to my Github! After graduating from the Brain
 - **Programming Languages**: `Python`, `R`, `MySQL`, `Bash`
 - **Data Analysis**: `Pandas`, `NumPy`, `SciPy`
 - **Machine Learning**: `Scikit-learn`, `TensorFlow`, `Keras`, `Pytorch`
-- **Data Visualization**: `Matplotlib`, `Seaborn`, `Tableau`, `'Plotly`
+- **Data Visualization**: `Matplotlib`, `Seaborn`, `Tableau`, `Plotly`
 - **Cloud Computing**: `AWS`, `Spark`, `Hadoop`
 - **Version Control**: `GitHub`, `Git`
 
