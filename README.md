@@ -62,8 +62,8 @@ Hello! I'm Sam Celarek and welcome to my Github! After graduating from the Brain
 
 ## 🌱 Featured Data Science Projects
 
-- **[COVIDCast: Time-Series Prediction of Covid](https://github.com/scelarek/Covid-Prediction-Capstone/tree/main)**: Use Epidemiological and Machine Learning Time Series Models to predict new COVID cases.
-- **[SideBard: Embedded Question and Search Chatbot](https://github.com/scelarek/Google-Industry-Day):** A chatbot in the sidebar that helps users navigate new AI Features in the Google Suite.
+- **[COVIDCast](https://github.com/scelarek/Covid-Prediction-Capstone/tree/main)**: Use Epidemiological and Machine Learning Time Series Models to predict new COVID cases.
+- **[SideBard](https://github.com/scelarek/Google-Industry-Day):** A chatbot that performs query embedded search and helps users navigate new AI Features in the Google Suite.
 
 ---
 
