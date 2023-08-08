@@ -60,14 +60,10 @@ Hello! I'm Sam Celarek and welcome to my Github! After graduating from the Brain
 
 --- 
 
-## 🌱 Data Science Projects
-I have a pretty deep repertoire of projects that is only getting deeper by the day. Take a dip!
+## 🌱 Featured Data Science Projects
 
-- **Covid Time-Series Prediction**: Use Epidemiological Models and COVID data to predict the number of New Cases of COVID to help hospitals, governments, and people brace for the oncoming storm.
-  - [COVID Prediction Wrangle, and Clean](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/1.%20Covid%20Preprocessing.ipynb)
-  - [COVID EDA Notebook](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/2.%20Sample%20EDA%20(Basic).ipynb) or [COVID EDA Presentation](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Presentations/COVID%20Preprocessing%20and%20EDA.pdf)
-  - [COVID Modeling](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/3.%20Covid%20SARIMA%20Modeling.ipynb)
-  - [COVID Prophet Modeling](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/4.%20Covid%20Prophet%20and%20RNNs.ipynb)
+- **COVIDCast: Time-Series Prediction of Covid**: Use Epidemiological and Machine Learning Time Series Models to predict new COVID cases.
+- **[SideBard: Embedded Question and Search Chatbot](https://github.com/scelarek/Google-Industry-Day):** A chatbot in the sidebar that helps users navigate new AI Features in the Google Suite.
 
 ---
 
@@ -75,8 +71,7 @@ I have a pretty deep repertoire of projects that is only getting deeper by the d
 Some of these resources are *Private Projects* due to copyright and therefore by *Request Only*. I'd be happy to share them with you otherwise!
 
 ### Data Wrangling. Cleaning, and EDA
-- [COVID Prediction Wrangle, and Clean](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/1.%20Covid%20Preprocessing.ipynb)
-- [COVID EDA Notebook](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/2.%20Sample%20EDA%20(Basic).ipynb) or [COVID EDA Presentation](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Presentations/COVID%20Preprocessing%20and%20EDA.pdf)
+- [COVIDCast Preprocessing](https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Capstone/1.%20Covid%20Preprocessing.ipynb), EDA, and Presentation on these two steps. 
 - [Twitter Data Wrangling](https://github.com/scelarek/Data-Analysis-Projects/blob/a1f50a33c893b5dbeec4ae5739eff319f8f61a1c/Twitter%20Humor%20vs%20Cuteness/Twitter_Wrangle.ipynb)
 - [Global vs City Temperatures Wrangle, Clean, and EDA](https://github.com/scelarek/Data-Analysis-Projects/blob/62ec589bf21700e670850a36ec8b401a67bc80bf/City%20vs%20Global%20Temp/Analying%20Yearly%20Average%20Temperature%20-%20Sam%20Celarek.docx.pdf) 
 - [Wealth and Happiness EDA](https://github.com/scelarek/Data-Analysis-Projects/blob/62ec589bf21700e670850a36ec8b401a67bc80bf/GDP%20vs%20GINI/eternal_growth_immortal_inequality.ipynb) 
@@ -86,9 +81,8 @@ Some of these resources are *Private Projects* due to copyright and therefore by
 
 ### Modeling, Natural Language Processing, and Neural Nets
 
-- [Google Industry Day Project Chatbot](https://github.com/scelarek/Google-Industry-Day)
-- [COVID ARIMA Modeling](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/3.%20Covid%20SARIMA%20Modeling.ipynb)
-- [COVID Prophet Modeling](https://github.com/scelarek/BrainStation_Capstone/blob/05050d52ac2f0164d80a2c3e39528ba1e2127e6c/Capstone/4.%20Covid%20Prophet%20and%20RNNs.ipynb)
+- [SideBard: Embedded Question and Search Chatbot](https://github.com/scelarek/Google-Industry-Day)
+- COVIDCast, ARIMA Modeling, and Facebook Prophet Modeling
 -  _Private_ [Kickstarter EDA and Modeling](https://github.com/scelarek/Universal_Code_Bank/blob/74bb8312a2477d66d72fc31ed31fda4c12c73458/Final%20Projects/Kickstarter/EDA%20Kickstarter.ipynb), and [Final Report](https://github.com/scelarek/Universal_Code_Bank/blob/74bb8312a2477d66d72fc31ed31fda4c12c73458/Final%20Projects/Kickstarter/Kickstarter%20Final%20Project.ipynb)
 -  _Private_ [Chicago Mosquito Hypothesis Testing and Modeling](https://github.com/scelarek/Universal_Code_Bank/blob/b3f1ec2bd331d6fa944b089931168a2b35f5c56a/Brain%20Station/Project2,%20Mosquitos%20pt2/Samuel_Celarek_Stats_Part2.ipynb)
 -  _Private_ [Hotel Reviews EDA, Modeling, and Natural Language Processing](https://github.com/scelarek/Universal_Code_Bank/blob/e8cfc54751e4b48a65cb001e56441b5fd19a472b/Brain%20Station/Project3,%20NLP%20With%20Hotel%20pt1/Hotel_Project_EDA_Wrangling,%20pt2.ipynb)
