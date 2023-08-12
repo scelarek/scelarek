@@ -68,7 +68,7 @@ Hello! I'm Sam Celarek and welcome to my Github! After graduating from the Brain
 ---
 
 ## 🔗 Important Links & Resources
-Some of these resources are *Private Projects* due to copyright and therefore by *Request Only*. I'd be happy to share them with you otherwise!
+Some of these resources are *Private Projects* due to copyright and therefore by *Request Only*. 
 
 ### Data Wrangling. Cleaning, and EDA
 - COVIDCast: [Preprocessing](https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Capstone/1.%20Covid%20Preprocessing.ipynb), [EDA](https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Capstone/2.%20COVIDCast%20EDA.ipynb), and [Presentation](https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Presentations/COVID%20Preprocessing%20and%20EDA.pdf) on these two steps. 
