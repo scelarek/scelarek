@@ -60,10 +60,11 @@ Hello! I'm Sam Celarek and welcome to my Github! After graduating from the Brain
 
 --- 
 
-## 🌱 Featured Data Science Projects
+## 🌱 [Featured Data Science Projects](https://scelarek.github.io/)
 
 - **[COVIDCast](https://github.com/scelarek/Covid-Prediction-Capstone/tree/main)**: Use Epidemiological and Machine Learning Time Series Models to predict new COVID cases.
-- **[SideBard](https://github.com/scelarek/Google-Industry-Day):** A chatbot that performs query embedded search and helps users navigate new AI Features in the Google Suite.
+- **[SideBard](https://scelarek.github.io/pages/sidebard.html):** A chatbot that performs query embedded search and helps users navigate new AI Features in the Google Suite.
+- **[Portfolio](https://scelarek.github.io/)**: Check out my porfolio website to see even more projects! 
 
 ---
 
@@ -72,7 +73,7 @@ The *Private Projects* are by *Request Only*.
 
 ### Data Science | Modeling, Natural Language Processing, and Neural Nets
 
-- **[COVIDCast](https://github.com/scelarek/Covid-Prediction-Capstone/tree/main)**
+- **[COVIDCast](https://scelarek.github.io/pages/covid.html)**
 - **[SideBard](https://github.com/scelarek/Google-Industry-Day)**
 - _Private_ [Kickstarter Fundraising Prediction](https://github.com/scelarek/Universal_Code_Bank/blob/74bb8312a2477d66d72fc31ed31fda4c12c73458/Final%20Projects/Kickstarter/EDA%20Kickstarter.ipynb), and [Final Report](https://github.com/scelarek/Universal_Code_Bank/blob/74bb8312a2477d66d72fc31ed31fda4c12c73458/Final%20Projects/Kickstarter/Kickstarter%20Final%20Project.ipynb)
 -  _Private_ [West Nile Virus Modeling](https://github.com/scelarek/Universal_Code_Bank/blob/b3f1ec2bd331d6fa944b089931168a2b35f5c56a/Brain%20Station/Project2,%20Mosquitos%20pt2/Samuel_Celarek_Stats_Part2.ipynb)
