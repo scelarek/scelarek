@@ -4,6 +4,9 @@
      <a href="https://www.linkedin.com/in/sam-celarek/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+     <a href="https://scelarek.github.io/">
+      <img src="https://img.shields.io/badge/Micro%20blog-FF8800?style=for-the-badge&logo=Microdotblog&logoColor=white" alt="Portfolio Badge"/>
+    </a>
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=scelarek&style=flat-square&color=blue" alt=""/>
