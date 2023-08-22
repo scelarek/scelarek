@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="350" length="350"/>
+
+  <img align="center" src="https://github.com/scelarek/scelarek/assets/115444760/af4e21b3-7f93-4760-9813-0ebcf60e1c57"/>
   <div id="badges">
      <a href="https://www.linkedin.com/in/sam-celarek/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,17 +11,11 @@
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=scelarek&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hello!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-
 </div>
 
 
 <div align="center">
 
-# **Sam Celarek the Data Dude**
 ## **BrainStation Data Science Diploma (August 2023)**
 
 </div>
@@ -32,6 +27,7 @@
 Hello! I'm Sam Celarek and welcome to my Github! After graduating from the BrainStation Data Science Bootcamp in August 2023, I'm ready for to take a crack at a business problem worthy of the name. The full package is something like insatiable curiosity, a desire to quantify everything, and a wide array of data science tools to tackle almost any problem. Let me know if you are interested in any of my projects or would like to collaborate.  
 
 ---
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="350" length="350"/>
 
 ### :hammer_and_wrench: Languages and Tools:
 <div align="center">
@@ -54,12 +50,15 @@ Hello! I'm Sam Celarek and welcome to my Github! After graduating from the Brain
 
 </div>
 
-- **Programming Languages**: `Python`, `R`, `MySQL`, `Bash`
-- **Data Analysis**: `Pandas`, `NumPy`, `SciPy`
-- **Machine Learning**: `Scikit-learn`, `TensorFlow`, `Keras`, `Pytorch`
-- **Data Visualization**: `Matplotlib`, `Seaborn`, `Tableau`, `Plotly`
-- **Cloud Computing**: `AWS`, `Spark`, `Hadoop`
+- **Programming Languages:** `Python`, `R`, `Bash`, `SQL`
+- **Database:** `MySQL`, `PostgreSQL`
+- **Data Analysis Libraries:** `NumPy`, `Pandas`, `SciPy`
+- **Data Visualization:** `Tableau`, `Matplotlib`, `Plotly`, `Seaborn`
+- **Machine Learning:** `Scikit-learn`, `TensorFlow`, `Keras`, `PyTorch`, `XGBoost`, `NLTK`
+- **Time Series Forecasting**: `pmdarima`, `Prophet`, `tbats` , `timemachines`, `darts`
+- **Cloud Computing**: `AWS`, `Spark`, `Hadoop`,  `GCP`, `Hive`, `Docker`
 - **Version Control**: `GitHub`, `Git`
+- **Statistics:** `Hypothesis Testing`, `Regression`, `Classification`, `Clustering`, `Time Series Forecasting`, `Deep Learning`
 
 --- 
 
