@@ -77,9 +77,9 @@ For _Private Projects_ there will only be a brief overview of the projects. Requ
 
 - **[COVIDCast](https://scelarek.github.io/pages/covid.html)**
 - **[SideBard](https://scelarek.github.io/pages/sidebard.html)**
-- [Kickstarter Fundraising Prediction](https://scelarek.github.io/pages/kickstart.html)
-- [West Nile Virus Modeling](https://scelarek.github.io/pages/wnv.html)
-- [Hotel Reviews Sentiment Prediction](https://scelarek.github.io/pages/hotel.html)
+- _[Kickstarter Fundraising Prediction](https://scelarek.github.io/pages/kickstart.html)_
+- _[West Nile Virus Modeling](https://scelarek.github.io/pages/wnv.html)_
+- _[Hotel Reviews Sentiment Prediction](https://scelarek.github.io/pages/hotel.html)_
 
 
 ### Data Analysis | Wrangling, Cleaning, and EDA
@@ -87,15 +87,15 @@ For _Private Projects_ there will only be a brief overview of the projects. Requ
 - [Twitters Favorite Dog Breed](https://scelarek.github.io/pages/twitter.html)
 - [Global vs City Temperatures](https://scelarek.github.io/pages/global.html) 
 - [Eternal Growth, Immortal Inequality](https://scelarek.github.io/pages/eternal.html) 
-- [Kickstarter Data Wrangling](https://scelarek.github.io/pages/kickstart.html)
-- [West Nile Virus Analysis](https://scelarek.github.io/pages/wnv.html)
-- [NLP of Hotel Reviews](https://scelarek.github.io/pages/hotel.html)
+- _[Kickstarter Data Wrangling](https://scelarek.github.io/pages/kickstart.html)_
+- _[West Nile Virus Analysis](https://scelarek.github.io/pages/wnv.html)_
+- _[NLP of Hotel Reviews](https://scelarek.github.io/pages/hotel.html)_
 
 
 ### Business Analysis | SQL, Tableau, AWS, and PySpark
-- [Kickstarter SQL Queries](https://scelarek.github.io/pages/kickstart.html) and [Tableau Dashboard](https://github.com/scelarek/Universal_Code_Bank/blob/f885714fbd4603df0d162cc19c737b02a5cc58e2/Final%20Projects/Kickstarter/SQL/Dashboard%201.png)
-- [BIXI SQL Queries](https://scelarek.github.io/pages/bixi.html)
-- [Google Engrams with AWS](https://scelarek.github.io/pages/google.html)
+- _[Kickstarter SQL Queries](https://scelarek.github.io/pages/kickstart.html)_ and [Tableau Dashboard](https://github.com/scelarek/Universal_Code_Bank/blob/f885714fbd4603df0d162cc19c737b02a5cc58e2/Final%20Projects/Kickstarter/SQL/Dashboard%201.png)
+- _[BIXI SQL Queries](https://scelarek.github.io/pages/bixi.html)_
+- _[Google Engrams with AWS](https://scelarek.github.io/pages/google.html)_
 
 ---
 
