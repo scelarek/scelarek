@@ -38,7 +38,7 @@ Built and maintained our internal 18-step government RFP lead pipeline (about 98
 - **Market disparity study:** designed the accuracy tests for the name-based classifiers that filled in missing demographic data, and produced charts and edits for the final report.
 - **Hiring funnel and ATS:** analyzed our recruiting pipeline, starting with 600+ applicants for one data analyst opening. I cleaned the ATS data, tracked time to hire, stage advancement and withdrawals by job board, tested whether candidate quality differed by source with logistic regression and imbalanced classification, and recommended stricter early screening to cut manual review. I also customized our internal ATS and CRM dashboards.
 - **Resume parsing:** extended CVInsight, an open-source LLM resume parser, with custom plugins that extract education, work experience, job-relevant experience and social profiles, plus tests and documentation, then ran it on our applicant resumes.
-- **LLM quality scoring:** built an accuracy scorer for the pipeline's LLM extraction that measures per-field match rates against a hand-labeled set and flags any drop beyond a 2% tolerance from saved baselines.
+- **LLM evaluation:** in early 2025 I benchmarked GPT-4o-mini against o3-mini on a hand-labeled test set, with per-field confusion matrices, to choose the extraction model. In 2026 I rebuilt it as an automated scorer that measures per-field match rates against the labeled set and flags any drop beyond a 2% tolerance from saved baselines.
 - **Client websites:** updated a hospital's dashboard website, monitored with Prometheus, and made site updates for a university.
 
 **[Nursing and quality improvement](https://scelarek.github.io/pages/quality.html)** (2014 – 2022)
