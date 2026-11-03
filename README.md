@@ -25,6 +25,7 @@ The data platform and models behind a site that compares 400+ US fertility clini
 - **Data quality:** linked clinic records across rebrands, mergers and duplicate registrations, with every match decision logged. Pandera schema checks run on each table write, the prediction API validates inputs with Pydantic, and pytest runs in GitHub Actions CI on every change.
 - **Analysis & modeling:** EDA across 28 years of registry data, then Bayesian hierarchical models (PyMC) of each stage from egg retrieval to live birth, adjusted for patient age and case mix and validated on held-out 2023–24 data.
 - **Causal analysis:** designed the causal framework for separating a clinic's own effect from the patients it treats, using a causal DAG, an instrumental-variable feasibility study and negative-control checks.
+- **Model hosting & serving:** trained the models on Modal cloud compute and serve them from Modal through a FastAPI prediction API, with predictions precomputed ahead of time so the site gets low-latency answers. The site runs on Vercel with a Supabase PostgreSQL backend (migrations, materialized views and RPC search functions).
 - **Automation:** review queues and an AI-assisted review hub resolve data questions, and recurring issues become automated rules.
 
 **[Nerevu Group](https://scelarek.github.io/pages/nerevu.html)** (2023 – 2026)
@@ -49,7 +50,7 @@ Eight years as a nurse, five of them in neuro ICUs. Five years on a hospital Qua
 - **Analysis & modeling:** Python (pandas, Polars, scikit-learn), R, EDA, Bayesian hierarchical models (PyMC), causal inference, XGBoost, regression
 - **Reporting:** Tableau, Power BI, Excel, dashboards and data visualization
 - **Automation & AI:** REST APIs, LLM extraction and output scoring, Claude Code, GitHub Actions CI, pytest
-- **Platforms:** Supabase, Airtable, Heroku, Modal, AWS, Azure, New Relic, Prometheus, Papertrail
+- **Platforms:** Supabase, Vercel, Airtable, Heroku, Modal (model training and serving), FastAPI, AWS, Azure, New Relic, Prometheus, Papertrail
 - **From BrainStation class work:** TensorFlow, Keras, PyTorch, NLTK, Spark, Hadoop, Hive, GCP, Docker, time series forecasting (Prophet, pmdarima, darts)
 
 ---
