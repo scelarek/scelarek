@@ -19,7 +19,13 @@ Data analyst with a nursing background, based in Portland, Oregon. I build end-t
 ## What I've built
 
 **[Baby Steps IVF](https://scelarek.github.io/pages/babysteps.html)** (2023 – present)
-Database and models that compare 400+ US fertility clinics on outcomes adjusted for patient age and case mix. I linked clinic records across rebrands, mergers and duplicate registrations. I built Bayesian hierarchical models of each stage from egg retrieval to live birth, validated on held-out 2023–24 data. Weekly refreshes run automatically with validation checks, review queues and an AI-assisted review hub.
+The data platform and models behind a site that compares 400+ US fertility clinics across 3M+ IVF cycles.
+
+- **Database & ETL:** built the database from SART and CDC outcomes and scaled it into a multi-table resource with each clinic's pricing, insurance, doctors, services and locations. A 50-step Python and SQL pipeline (Polars, DuckDB, PostgreSQL on Supabase) runs the weekly refresh. I'm now piloting Dagster for orchestration.
+- **Data quality:** linked clinic records across rebrands, mergers and duplicate registrations, with every match decision logged. Pandera schema checks run on each table write, the prediction API validates inputs with Pydantic, and pytest runs in GitHub Actions CI on every change.
+- **Analysis & modeling:** EDA across 28 years of registry data, then Bayesian hierarchical models (PyMC) of each stage from egg retrieval to live birth, adjusted for patient age and case mix and validated on held-out 2023–24 data.
+- **Causal analysis:** designed the causal framework for separating a clinic's own effect from the patients it treats: a causal DAG, an instrumental-variable feasibility study and negative-control checks.
+- **Automation:** review queues and an AI-assisted review hub resolve data questions, and recurring issues become automated rules.
 
 **[Nerevu Group](https://scelarek.github.io/pages/nerevu.html)** (2023 – 2026)
 Sole programmer on an internal 18-step pipeline (HigherGov, OpenAI, Airtable and Zapier APIs on Heroku) with LLM extraction and 900+ CI tests. Also maintained nightly SQL Server and SSIS loads for a mortgage-lending client, and produced charts and recommendations for a market disparity study and a municipal data governance report.
@@ -31,8 +37,8 @@ Eight years as a nurse, five of them in neuro ICUs. Five years on a hospital Qua
 
 ## Tools
 
-- **Data & SQL:** SQL Server / T-SQL, PostgreSQL, SSIS, DuckDB, SQLite, ETL pipelines, data validation and reconciliation
-- **Analysis & modeling:** Python (pandas, Polars, scikit-learn), R, Bayesian hierarchical models, XGBoost, LightGBM, regression
+- **Data & SQL:** SQL Server / T-SQL, PostgreSQL, SSIS, DuckDB, SQLite, ETL pipelines, Pandera and Pydantic schemas, data validation and reconciliation
+- **Analysis & modeling:** Python (pandas, Polars, scikit-learn), R, EDA, Bayesian hierarchical models (PyMC), causal inference, XGBoost, regression
 - **Reporting:** Tableau, Power BI, Excel, dashboards and data visualization
 - **Automation & AI:** REST APIs, LLM extraction and output scoring, Claude Code, GitHub Actions CI, pytest
 - **Platforms:** Supabase, Airtable, Heroku, Modal, AWS, Azure, New Relic, Prometheus, Papertrail
