@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Sam Celarek, Data Analyst with a Nursing Background" width="100%"/>
+<img src="banner.svg" alt="Sam Celarek, Data Analyst with Nursing Background" width="100%"/>
 
 <a href="https://scelarek.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF8800?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/sam-celarek/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://docs.google.com/document/d/1iOG1k-Rn-YsG7n76U7Kvuc9NowLHP8C4w8pklEHnjbc/edit?usp=sharing"><img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/></a> <a href="https://calendly.com/scelarek/60min"><img src="https://img.shields.io/badge/Book%20a%20call-555555?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a call"/></a>
 
@@ -8,7 +8,7 @@
 
 ## Hi, I'm Sam
 
-Data analyst specializing in healthcare, and a former neuro ICU nurse, in Portland, Oregon. I build end-to-end data tools with Python, SQL, APIs and AI, and I measure what they change.
+Data analyst with a nursing background, based in Portland, Oregon. I build end-to-end data tools with Python, SQL, APIs and AI, and I measure what they change.
 
 - **3M+ IVF cycles** in the database I built as founding data analyst at [Baby Steps IVF](https://www.makebabysteps.com/), linking SART and CDC records and each clinic's pricing, insurance, doctors and services
 - **30 → 1 minute** to prep each government RFP lead, with an 18-step Python and SQL pipeline I built at Nerevu Group
