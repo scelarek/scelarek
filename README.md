@@ -19,13 +19,13 @@ Data analyst with a nursing background, based in Portland, Oregon. I build end-t
 ## What I've built
 
 **[Baby Steps IVF](https://scelarek.github.io/pages/babysteps.html)** (2023 – present)
-Database and models that compare 400+ US fertility clinics on outcomes adjusted for patient age and case mix. Clinic records linked across rebrands, mergers and duplicate registrations; Bayesian hierarchical models of each stage from egg retrieval to live birth, validated on held-out 2023–24 data; weekly automated refreshes with validation checks, review queues and an AI-assisted review hub.
+Database and models that compare 400+ US fertility clinics on outcomes adjusted for patient age and case mix. I linked clinic records across rebrands, mergers and duplicate registrations. I built Bayesian hierarchical models of each stage from egg retrieval to live birth, validated on held-out 2023–24 data. Weekly refreshes run automatically with validation checks, review queues and an AI-assisted review hub.
 
 **[Nerevu Group](https://scelarek.github.io/pages/nerevu.html)** (2023 – 2026)
 Sole programmer on an internal 18-step pipeline (HigherGov, OpenAI, Airtable and Zapier APIs on Heroku) with LLM extraction and 900+ CI tests. Also maintained nightly SQL Server and SSIS loads for a mortgage-lending client, and produced charts and recommendations for a market disparity study and a municipal data governance report.
 
 **[Nursing and quality improvement](https://scelarek.github.io/pages/quality.html)** (2014 – 2022)
-Eight years as a nurse, five of them in neuro ICUs. Five years on a hospital Quality Improvement & Safety Council, two as chair: we used infection data, surveys and chart audits to find why line infections persisted, then led the fixes that cut them 41%.
+Eight years as a nurse, five of them in neuro ICUs. Five years on a hospital Quality Improvement & Safety Council, two as chair. We used infection data, surveys and chart audits to find why line infections persisted, then led the fixes that cut them 41%.
 
 ---
 
