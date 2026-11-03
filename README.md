@@ -48,6 +48,7 @@ Eight years in acute care, five in neuro ICUs. Chaired a hospital Quality Improv
 - **Reporting:** Tableau, Power BI, Excel, dashboards and data visualization
 - **Automation & AI:** REST APIs, LLM extraction and output scoring, Claude Code, GitHub Actions CI, pytest
 - **Platforms:** Supabase, Airtable, Heroku, Modal, AWS, Azure, New Relic, Prometheus, Papertrail
+- **From BrainStation class work:** TensorFlow, Keras, PyTorch, NLTK, Spark, Hadoop, Hive, GCP, Docker, time series forecasting (Prophet, pmdarima, darts)
 
 ---
 
