@@ -1,20 +1,8 @@
-<div id="header" align="center">
+<div align="center">
 
-  <img align="center" src="https://github.com/scelarek/scelarek/assets/115444760/af4e21b3-7f93-4760-9813-0ebcf60e1c57"/>
-  <div id="badges">
-    <a href="https://scelarek.github.io/">
-      <img src="https://img.shields.io/badge/Portfolio-FF8800?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/sam-celarek/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://docs.google.com/document/d/1iOG1k-Rn-YsG7n76U7Kvuc9NowLHP8C4w8pklEHnjbc/edit?usp=sharing">
-      <img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Badge"/>
-    </a>
-    <a href="https://calendly.com/scelarek/60min">
-      <img src="https://img.shields.io/badge/Book%20a%20call-555555?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly Badge"/>
-    </a>
-  </div>
+<img src="banner.svg" alt="Sam Celarek, Data Analyst with a Nursing Background" width="100%"/>
+
+<a href="https://scelarek.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF8800?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/sam-celarek/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://docs.google.com/document/d/1iOG1k-Rn-YsG7n76U7Kvuc9NowLHP8C4w8pklEHnjbc/edit?usp=sharing"><img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/></a> <a href="https://calendly.com/scelarek/60min"><img src="https://img.shields.io/badge/Book%20a%20call-555555?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a call"/></a>
 
 </div>
 
