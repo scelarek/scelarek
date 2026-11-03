@@ -24,7 +24,7 @@ The data platform and models behind a site that compares 400+ US fertility clini
 - **Database & ETL:** built the database from SART and CDC outcomes and scaled it into a multi-table resource with each clinic's pricing, insurance, doctors, services and locations. A 50-step Python and SQL pipeline (Polars, DuckDB, PostgreSQL on Supabase) runs the weekly refresh. I'm now piloting Dagster for orchestration.
 - **Data quality:** linked clinic records across rebrands, mergers and duplicate registrations, with every match decision logged. Pandera schema checks run on each table write, the prediction API validates inputs with Pydantic, and pytest runs in GitHub Actions CI on every change.
 - **Analysis & modeling:** EDA across 28 years of registry data, then Bayesian hierarchical models (PyMC) of each stage from egg retrieval to live birth, adjusted for patient age and case mix and validated on held-out 2023–24 data.
-- **Causal analysis:** designed the causal framework for separating a clinic's own effect from the patients it treats: a causal DAG, an instrumental-variable feasibility study and negative-control checks.
+- **Causal analysis:** designed the causal framework for separating a clinic's own effect from the patients it treats, using a causal DAG, an instrumental-variable feasibility study and negative-control checks.
 - **Automation:** review queues and an AI-assisted review hub resolve data questions, and recurring issues become automated rules.
 
 **[Nerevu Group](https://scelarek.github.io/pages/nerevu.html)** (2023 – 2026)
