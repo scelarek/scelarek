@@ -22,7 +22,7 @@ Data analyst with a nursing background, based in Portland, Oregon. I build end-t
 The data platform and models behind a site that lists 600 US fertility clinics and compares outcomes for nearly 400 of them across 3M+ IVF cycles.
 
 - **Database & ETL:** joined SART and CDC outcomes with each clinic's pricing, insurance, doctors, services and locations into a multi-table resource, including a 174M-row outcome-metrics table. A 50-step Python and SQL pipeline (Polars, DuckDB, PostgreSQL on Supabase) runs the weekly refresh.
-- **Data quality:** linked clinic records across rebrands, mergers and duplicate registrations, with every match decision logged. The registry's own internal inconsistencies are flagged and kept per clinic-year instead of masked. Every refactor passes a byte-for-byte parity test against the previous output before it merges. Values the pipeline derives instead of downloading are checked with zero tolerance for error, and re-downloads of disputed values matched exactly. pytest runs in GitHub Actions on every pull request, and Pandera schema checks are being added to each table write.
+- **Data quality:** linked clinic records across rebrands, mergers and duplicate registrations, with every match decision logged. The registry's own internal inconsistencies are flagged and kept per clinic-year instead of masked. Every refactor passes a byte-for-byte parity test against the previous output before it merges. Values the pipeline derives instead of downloading are checked with zero tolerance for error, and re-downloads of disputed values matched exactly. pytest runs in GitHub Actions on every pull request.
 - **Price transparency:** built a database of 2,250+ clinic prices across 260+ clinics, each with its source page, quote and date, and an automated sweep re-confirmed 1,180 published prices against the live pages. Streamed multi-gigabyte insurer price-transparency files (UnitedHealthcare, Anthem, Cigna) and matched 2,682 provider NPIs, placing 624 of 700 clinics in at least one insurer network.
 - **Analysis & modeling:** EDA across 28 years of registry data, then Bayesian hierarchical models (PyMC) of each stage from egg retrieval to live birth, adjusted for patient age and case mix and validated on held-out 2023–24 data. Release gates require convergence (r-hat at or below 1.025), 90% interval coverage and simulation-based calibration.
 - **Causal analysis:** designed the causal framework for separating a clinic's own effect from the patients it treats, using a causal DAG, an instrumental-variable feasibility study and negative-control checks.
@@ -47,7 +47,7 @@ Eight years as a nurse, five of them in neuro ICUs. Five years on a hospital Qua
 
 ## Tools
 
-- **Data & SQL:** SQL Server / T-SQL, PostgreSQL, SSIS, DuckDB, SQLite, ETL pipelines, Pandera and Pydantic schemas, data validation and reconciliation
+- **Data & SQL:** SQL Server / T-SQL, PostgreSQL, SSIS, DuckDB, SQLite, ETL pipelines, Pydantic schemas, data validation and reconciliation
 - **Analysis & modeling:** Python (pandas, Polars, scikit-learn), R, EDA, Bayesian hierarchical models (PyMC), causal inference, XGBoost, regression
 - **Reporting:** Tableau, Power BI, Excel, dashboards and data visualization
 - **Automation & AI:** REST APIs, LLM extraction and output scoring, Claude Code, GitHub Actions CI, pytest
