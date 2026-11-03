@@ -28,7 +28,13 @@ The data platform and models behind a site that compares 400+ US fertility clini
 - **Automation:** review queues and an AI-assisted review hub resolve data questions, and recurring issues become automated rules.
 
 **[Nerevu Group](https://scelarek.github.io/pages/nerevu.html)** (2023 – 2026)
-Sole programmer on an internal 18-step pipeline (HigherGov, OpenAI, Airtable and Zapier APIs on Heroku) with LLM extraction and 900+ CI tests. Also maintained nightly SQL Server and SSIS loads for a mortgage-lending client, and produced charts and recommendations for a market disparity study and a municipal data governance report.
+Sole programmer on our internal 18-step government RFP lead pipeline, which cut prep from about 30 minutes per lead to a 1-minute review. Before it, every lead was read and entered by hand, key dates were buried in long PDFs, and keyword search missed too many. The pipeline pulls leads from the HigherGov API and the web, extracts text from PDFs and XFA forms, uses OpenAI models to extract dates and fields and summarize each lead, then syncs everything to PostgreSQL and Airtable, with Zapier handling hand-offs. I chose models and settings on a validation set, scored them on a held-out test set, and cut cost with cached and parallel calls. It runs on Heroku with error logging and monitoring (New Relic, Prometheus, Papertrail). GitHub Actions CI runs 900+ tests plus an automated LLM code review, and every production error became a test that recreates it, pinned to the fix.
+
+- **SQL Server and SSIS:** maintained nightly SQL Server and SSIS loads for a mortgage-lending client, with stored procedures, table-comparison reconciliation between staging and production, and SQL Server Agent email alerts.
+- **Data governance:** produced the charts and executive recommendations table for a municipal data governance report.
+- **Market disparity study:** designed the accuracy tests for the name-based classifiers that filled in missing demographic data, and produced charts and edits for the final report.
+- **Hiring funnel and ATS:** customized our internal ATS and CRM dashboards, and analyzed a 1,000+ applicant funnel stage by stage to model which candidates advance.
+- **Resume parsing:** built resume parsing for incoming applicants to feed the internal ATS.
 
 **[Nursing and quality improvement](https://scelarek.github.io/pages/quality.html)** (2014 – 2022)
 Eight years as a nurse, five of them in neuro ICUs. Five years on a hospital Quality Improvement & Safety Council, rising from member to secretary, vice chair and chair. We used infection data, surveys and chart audits to find why line infections persisted, then led the fixes that cut them 41%.
