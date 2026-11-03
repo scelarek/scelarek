@@ -25,7 +25,7 @@ Database and models that compare 400+ US fertility clinics on outcomes adjusted 
 Sole programmer on an internal 18-step pipeline (HigherGov, OpenAI, Airtable and Zapier APIs on Heroku) with LLM extraction and 900+ CI tests. Also maintained nightly SQL Server and SSIS loads for a mortgage-lending client, and produced charts and recommendations for a market disparity study and a municipal data governance report.
 
 **[Nursing and quality improvement](https://scelarek.github.io/pages/quality.html)** (2014 – 2022)
-Eight years as a nurse, five of them in neuro ICUs. Five years on a hospital Quality Improvement & Safety Council, two as chair. We used infection data, surveys and chart audits to find why line infections persisted, then led the fixes that cut them 41%.
+Eight years as a nurse, five of them in neuro ICUs. Five years on a hospital Quality Improvement & Safety Council, rising from member to secretary, vice chair and chair. We used infection data, surveys and chart audits to find why line infections persisted, then led the fixes that cut them 41%.
 
 ---
 
