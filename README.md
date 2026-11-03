@@ -20,7 +20,7 @@
 
 ## Hi, I'm Sam
 
-Healthcare data analyst and former neuro ICU nurse in Portland, Oregon. I build end-to-end data tools with Python, SQL, APIs and AI, and I measure what they change.
+Data analyst specializing in healthcare, and a former neuro ICU nurse, in Portland, Oregon. I build end-to-end data tools with Python, SQL, APIs and AI, and I measure what they change.
 
 - **3M+ IVF cycles** in the database I built as founding data analyst at [Baby Steps IVF](https://www.makebabysteps.com/), linking SART and CDC records and each clinic's pricing, insurance, doctors and services
 - **30 → 1 minute** to prep each government RFP lead, with an 18-step Python and SQL pipeline I built at Nerevu Group
