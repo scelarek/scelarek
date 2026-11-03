@@ -35,6 +35,8 @@ Sole programmer on our internal 18-step government RFP lead pipeline, which cut 
 - **Market disparity study:** designed the accuracy tests for the name-based classifiers that filled in missing demographic data, and produced charts and edits for the final report.
 - **Hiring funnel and ATS:** customized our internal ATS and CRM dashboards, and analyzed a 1,000+ applicant funnel stage by stage to model which candidates advance.
 - **Resume parsing:** built resume parsing for incoming applicants to feed the internal ATS.
+- **LLM quality scoring:** wrote an automated scorer that grades LLM output inside the production pipeline.
+- **Client websites:** updated a hospital's dashboard website, monitored with Prometheus, and made site updates for a university.
 
 **[Nursing and quality improvement](https://scelarek.github.io/pages/quality.html)** (2014 – 2022)
 Eight years as a nurse, five of them in neuro ICUs. Five years on a hospital Quality Improvement & Safety Council, rising from member to secretary, vice chair and chair. We used infection data, surveys and chart audits to find why line infections persisted, then led the fixes that cut them 41%.
