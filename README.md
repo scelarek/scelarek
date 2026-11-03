@@ -36,8 +36,8 @@ Built and maintained our internal government RFP lead pipeline (about 98% of the
 - **SQL Server and SSIS:** maintained nightly SQL Server and SSIS loads for a mortgage-lending client, with stored procedures, table-comparison reconciliation between staging and production, and SQL Server Agent email alerts.
 - **Data governance:** produced the charts and executive recommendations table for a municipal data governance report.
 - **Market disparity study:** designed the accuracy tests for the name-based classifiers that filled in missing demographic data, and produced charts and edits for the final report.
-- **Hiring funnel and ATS:** customized our internal ATS and CRM dashboards, and analyzed a 1,000+ applicant funnel stage by stage to model which candidates advance.
-- **Resume parsing:** built resume parsing for incoming applicants to feed the internal ATS.
+- **Hiring funnel and ATS:** analyzed our recruiting pipeline, starting with 600+ applicants for one data analyst opening. I cleaned the ATS data, tracked time to hire, stage advancement and withdrawals by job board, tested whether candidate quality differed by source with logistic regression and imbalanced classification, and recommended stricter early screening to cut manual review. I also customized our internal ATS and CRM dashboards.
+- **Resume parsing:** extended CVInsight, an open-source LLM resume parser, with custom plugins that extract education, work experience, job-relevant experience and social profiles, plus tests and documentation, then ran it on our applicant resumes.
 - **LLM quality scoring:** wrote an automated scorer that grades LLM output inside the production pipeline.
 - **Client websites:** updated a hospital's dashboard website, monitored with Prometheus, and made site updates for a university.
 
